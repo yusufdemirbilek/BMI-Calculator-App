@@ -1,0 +1,43 @@
+.bilgi{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #dfcbe9;
+    text-align: center;
+}
+
+.first {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 28%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 650px;
+    padding-top: 20px;
+}
+
+.second{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 28%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 650px;
+    padding-top: 20px;
+}
+
+.third{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 28%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 650px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
